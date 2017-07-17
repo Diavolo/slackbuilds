@@ -5,6 +5,6 @@ DOWNLOAD="https://pypi.python.org/packages/2a/ba/581591a8a8d48d02236b57633ae5f55
 MD5SUM="2c75d7452ae00d24ae8dea879e845bde"
 DOWNLOAD_x86_64=""
 MD5SUM_x86_64=""
-REQUIRES="python3, python3-PyQt5, Markdown"
+REQUIRES="python3, python3-PyQt5, Markups, Markdown"
 MAINTAINER="GNUstav Huarcaya"
 EMAIL="diavolo@qqta.org"
