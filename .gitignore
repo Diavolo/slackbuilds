@@ -44,3 +44,4 @@ flycheck_*.el
 
 # source files
 *.bz2
+*.gz
