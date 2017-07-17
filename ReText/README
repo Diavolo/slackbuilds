@@ -1,0 +1,7 @@
+Simple editor for Markdown and reStructuredText.
+
+ReText is simple text editor that supports Markdown and reStructuredText
+markup languages. It is written in Python using PyQt libraries.
+
+It supports live preview, tabs, math formulas, export to various formats
+including PDF and HTML.
